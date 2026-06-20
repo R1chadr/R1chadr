@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+[![Header](https://github.com/R1chadr/R1chadr/blob/main/banner.gif)]
 
 ##### Hi, I'm Javier Gaviria:
 
@@ -13,8 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiergaviria/)
 
 ##### Languages I use
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
