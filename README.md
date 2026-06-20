@@ -1,4 +1,4 @@
-[![Header](https://github.com/R1chadr/R1chadr/blob/main/banner.gif)]
+![Header](https://github.com/R1chadr/R1chadr/blob/main/banner.gif)
 
 ##### Hi, I'm Javier Gaviria:
 
